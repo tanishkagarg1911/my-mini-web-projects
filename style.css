@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+}
+#green{
+background-color:green
+}
+#red{
+background-color:red
+}
+#blue{
+background-color:blue
+}
+
+button{
+height = 20 px;
+width =30px;
+}
